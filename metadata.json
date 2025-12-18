@@ -1,0 +1,7 @@
+{
+  "name": "MoneyTalk - Quản lý thu chi thông minh",
+  "description": "Ứng dụng quản lý tài chính cá nhân sử dụng AI để phân tích giọng nói, tự động phân loại giao dịch và báo cáo chi tiết.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
